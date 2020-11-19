@@ -22,7 +22,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time**
   navbar:
     - title: Status
-      href: /
+      href: https://xoff1337.github.io/xoff1337/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
