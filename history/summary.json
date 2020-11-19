@@ -5,7 +5,7 @@
     "slug": "1nf",
     "status": "up",
     "uptime": "100.00",
-    "time": 2223
+    "time": 2169
   },
   {
     "name": "60x7.ru",
@@ -13,7 +13,7 @@
     "slug": "60x7-ru",
     "status": "up",
     "uptime": "100.00",
-    "time": 2364
+    "time": 2612
   },
   {
     "name": "HIGHTECH",
@@ -21,14 +21,14 @@
     "slug": "hightech",
     "status": "up",
     "uptime": "100.00",
-    "time": 1509
+    "time": 1483
   },
   {
-    "name": "x-off.ru",
-    "url": "https://x-off.ru",
-    "slug": "x-off-ru",
-    "status": "down",
-    "uptime": "0.06",
-    "time": 0
+    "name": "mail.x-off.ru",
+    "url": "http://mail.x-off.ru",
+    "slug": "mail-x-off-ru",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2804
   }
 ]
