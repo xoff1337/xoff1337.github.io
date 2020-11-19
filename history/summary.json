@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "1nf",
+    "url": "https://xn--1-ztbv.xn--p1ai",
+    "slug": "1nf",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 2007
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "60x7.ru",
+    "url": "https://60x7.ru",
+    "slug": "60x7-ru",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 4095
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "HIGHTECH",
+    "url": "https://gk-ht.ru",
+    "slug": "hightech",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
+    "time": 1409
   }
 ]
