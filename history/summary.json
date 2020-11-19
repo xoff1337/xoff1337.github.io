@@ -11,9 +11,9 @@
     "name": "60x7.ru",
     "url": "https://60x7.ru",
     "slug": "60x7-ru",
-    "status": "down",
-    "uptime": "99.79",
-    "time": 2404
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2364
   },
   {
     "name": "HIGHTECH",
@@ -28,7 +28,7 @@
     "url": "https://x-off.ru",
     "slug": "x-off-ru",
     "status": "down",
-    "uptime": "0.07",
+    "uptime": "0.06",
     "time": 0
   }
 ]
