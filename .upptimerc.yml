@@ -10,8 +10,8 @@ sites:
     url: https://60x7.ru
   - name: HIGHTECH
     url: https://gk-ht.ru
-  - name: x-off.ru
-    url: https://x-off.ru
+  - name: mail.x-off.ru
+    url: http://mail.x-off.ru
 
 notifications:
   - type: discord
