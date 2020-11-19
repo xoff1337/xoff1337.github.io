@@ -10,6 +10,11 @@ sites:
     url: https://60x7.ru
   - name: HIGHTECH
     url: https://gk-ht.ru
+  - name: x-off.ru
+    url: https://x-off.ru
+
+notifications:
+  - type: discord
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
