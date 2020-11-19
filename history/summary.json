@@ -5,7 +5,7 @@
     "slug": "1nf",
     "status": "up",
     "uptime": "100.00",
-    "time": 2270
+    "time": 2223
   },
   {
     "name": "60x7.ru",
@@ -13,7 +13,7 @@
     "slug": "60x7-ru",
     "status": "up",
     "uptime": "100.00",
-    "time": 3314
+    "time": 2938
   },
   {
     "name": "HIGHTECH",
@@ -21,6 +21,14 @@
     "slug": "hightech",
     "status": "up",
     "uptime": "100.00",
-    "time": 1520
+    "time": 1509
+  },
+  {
+    "name": "x-off.ru",
+    "url": "https://x-off.ru",
+    "slug": "x-off-ru",
+    "status": "down",
+    "uptime": "10.64",
+    "time": 0
   }
 ]
