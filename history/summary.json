@@ -5,7 +5,7 @@
     "slug": "1nf",
     "status": "up",
     "uptime": "100.00",
-    "time": 2169
+    "time": 2254
   },
   {
     "name": "60x7.ru",
@@ -13,7 +13,7 @@
     "slug": "60x7-ru",
     "status": "up",
     "uptime": "100.00",
-    "time": 2612
+    "time": 2870
   },
   {
     "name": "HIGHTECH",
@@ -21,7 +21,7 @@
     "slug": "hightech",
     "status": "up",
     "uptime": "100.00",
-    "time": 1483
+    "time": 1476
   },
   {
     "name": "mail.x-off.ru",
@@ -29,6 +29,6 @@
     "slug": "mail-x-off-ru",
     "status": "up",
     "uptime": "100.00",
-    "time": 2804
+    "time": 2658
   }
 ]
