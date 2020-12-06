@@ -4,16 +4,16 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2583,
-    "timeDay": 2612,
-    "timeWeek": 2477,
-    "timeMonth": 2583,
-    "timeYear": 2583
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2580,
+    "timeDay": 2791,
+    "timeWeek": 2493,
+    "timeMonth": 2580,
+    "timeYear": 2580
   },
   {
     "name": "60x7.ru",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3483,
-    "timeDay": 4135,
-    "timeWeek": 4275,
-    "timeMonth": 3483,
-    "timeYear": 3483
+    "time": 3467,
+    "timeDay": 3586,
+    "timeWeek": 4006,
+    "timeMonth": 3467,
+    "timeYear": 3467
   },
   {
     "name": "HIGHTECH",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1501,
-    "timeDay": 1531,
-    "timeWeek": 1489,
-    "timeMonth": 1501,
-    "timeYear": 1501
+    "time": 1498,
+    "timeDay": 1438,
+    "timeWeek": 1496,
+    "timeMonth": 1498,
+    "timeYear": 1498
   },
   {
     "name": "mail.x-off.ru",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2712,
-    "timeDay": 2143,
-    "timeWeek": 2524,
-    "timeMonth": 2712,
-    "timeYear": 2712
+    "time": 2688,
+    "timeDay": 2265,
+    "timeWeek": 2459,
+    "timeMonth": 2688,
+    "timeYear": 2688
   }
 ]
