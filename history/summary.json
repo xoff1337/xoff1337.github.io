@@ -4,19 +4,19 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2533,
-    "timeDay": 2913,
-    "timeWeek": 2470,
-    "timeMonth": 2533,
-    "timeYear": 2533,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "82.09%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 2721,
+    "timeDay": 5632,
+    "timeWeek": 2960,
+    "timeMonth": 2721,
+    "timeYear": 2721,
     "dailyMinutesDown": {
-      "2020-12-08": 1
+      "2020-12-08": 258
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://60x7.ru",
     "icon": "https://favicons.githubusercontent.com/60x7.ru",
     "slug": "60x7-ru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3583,
-    "timeDay": 5431,
-    "timeWeek": 4037,
-    "timeMonth": 3583,
-    "timeYear": 3583,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "82.12%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 3661,
+    "timeDay": 5994,
+    "timeWeek": 4266,
+    "timeMonth": 3661,
+    "timeYear": 3661,
     "dailyMinutesDown": {
-      "2020-12-08": 0
+      "2020-12-08": 258
     }
   },
   {
