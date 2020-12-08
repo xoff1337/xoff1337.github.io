@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2520,
-    "timeDay": 2055,
-    "timeWeek": 2373,
-    "timeMonth": 2520,
-    "timeYear": 2520,
-    "dailyMinutesDown": {
-      "2020-12-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2533,
+    "timeDay": 2528,
+    "timeWeek": 2470,
+    "timeMonth": 2533,
+    "timeYear": 2533,
+    "dailyMinutesDown": {}
   },
   {
     "name": "60x7.ru",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/60x7.ru",
     "slug": "60x7-ru",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3532,
-    "timeDay": 3630,
-    "timeWeek": 4053,
-    "timeMonth": 3532,
-    "timeYear": 3532,
-    "dailyMinutesDown": {
-      "2020-12-07": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3583,
+    "timeDay": 3783,
+    "timeWeek": 4037,
+    "timeMonth": 3583,
+    "timeYear": 3583,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HIGHTECH",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 1280,
-    "timeWeek": 1453,
-    "timeMonth": 1488,
-    "timeYear": 1488,
+    "time": 1487,
+    "timeDay": 1466,
+    "timeWeek": 1469,
+    "timeMonth": 1487,
+    "timeYear": 1487,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2679,
-    "timeDay": 2512,
-    "timeWeek": 2452,
-    "timeMonth": 2679,
-    "timeYear": 2679,
+    "time": 2681,
+    "timeDay": 2721,
+    "timeWeek": 2487,
+    "timeMonth": 2681,
+    "timeYear": 2681,
     "dailyMinutesDown": {}
   }
 ]
