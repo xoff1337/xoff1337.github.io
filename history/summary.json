@@ -4,36 +4,40 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2533,
-    "timeDay": 2528,
+    "timeDay": 2913,
     "timeWeek": 2470,
     "timeMonth": 2533,
     "timeYear": 2533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-08": 1
+    }
   },
   {
     "name": "60x7.ru",
     "url": "https://60x7.ru",
     "icon": "https://favicons.githubusercontent.com/60x7.ru",
     "slug": "60x7-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3583,
-    "timeDay": 3783,
+    "timeDay": 5431,
     "timeWeek": 4037,
     "timeMonth": 3583,
     "timeYear": 3583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-08": 0
+    }
   },
   {
     "name": "HIGHTECH",
