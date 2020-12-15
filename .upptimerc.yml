@@ -12,6 +12,8 @@ sites:
     url: https://gk-ht.ru
   - name: mail.x-off.ru
     url: http://mail.x-off.ru
+  - name: x-off.ru
+    url: http://x-off.ru    
 
 notifications:
   - type: discord
