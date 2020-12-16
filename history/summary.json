@@ -84,19 +84,19 @@
     "url": "http://x-off.ru",
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
-    "status": "up",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
+    "status": "down",
+    "uptime": "4.86%",
+    "uptimeDay": "4.86%",
+    "uptimeWeek": "4.86%",
+    "uptimeMonth": "4.86%",
+    "uptimeYear": "4.86%",
     "time": 1262,
     "timeDay": 1262,
     "timeWeek": 1262,
     "timeMonth": 1262,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2020-12-16": 177,
+      "2020-12-16": 163,
       "2020-12-15": 777
     }
   }
