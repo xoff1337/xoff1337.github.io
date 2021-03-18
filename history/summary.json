@@ -4,10 +4,10 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2518,
@@ -16,6 +16,7 @@
     "timeMonth": 2350,
     "timeYear": 2518,
     "dailyMinutesDown": {
+      "2021-03-18": 1,
       "2021-02-09": 44
     }
   },
