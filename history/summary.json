@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2525,
-    "timeDay": 2488,
-    "timeWeek": 2552,
-    "timeMonth": 2459,
+    "timeDay": 2423,
+    "timeWeek": 2556,
+    "timeMonth": 2458,
     "timeYear": 2525,
     "dailyMinutesDown": {
       "2021-02-09": 44
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 4100,
-    "timeDay": 6832,
-    "timeWeek": 7000,
-    "timeMonth": 4886,
-    "timeYear": 4100,
+    "time": 4093,
+    "timeDay": 2926,
+    "timeWeek": 6433,
+    "timeMonth": 4825,
+    "timeYear": 4093,
     "dailyMinutesDown": {
       "2021-02-09": 43
     }
@@ -45,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/mail.x-off.ru",
     "slug": "mail-x-off-ru",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2837,
-    "timeDay": 2487,
-    "timeWeek": 2836,
-    "timeMonth": 2975,
-    "timeYear": 2837,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.93%",
+    "time": 2835,
+    "timeDay": 2628,
+    "timeWeek": 2848,
+    "timeMonth": 2964,
+    "timeYear": 2835,
+    "dailyMinutesDown": {
+      "2021-02-09": 130
+    }
   },
   {
     "name": "x-off.ru",
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1590,
-    "timeDay": 1917,
-    "timeWeek": 2776,
-    "timeMonth": 2074,
-    "timeYear": 1590,
+    "time": 1591,
+    "timeDay": 1810,
+    "timeWeek": 2820,
+    "timeMonth": 2066,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-02-09": 43
     }
