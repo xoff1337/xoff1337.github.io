@@ -24,17 +24,17 @@
     "url": "https://60x7.ru",
     "icon": "https://favicons.githubusercontent.com/60x7.ru",
     "slug": "60x7-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 4086,
-    "timeDay": 3021,
-    "timeWeek": 3990,
-    "timeMonth": 4696,
-    "timeYear": 4086,
+    "time": 4205,
+    "timeDay": 14389,
+    "timeWeek": 6711,
+    "timeMonth": 5298,
+    "timeYear": 4205,
     "dailyMinutesDown": {
       "2021-02-09": 43
     }
