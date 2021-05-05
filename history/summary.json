@@ -48,9 +48,9 @@
     "url": "http://mail.x-off.ru",
     "icon": "https://favicons.githubusercontent.com/mail.x-off.ru",
     "slug": "mail-x-off-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 2591,
     "timeMonth": 2730,
     "timeYear": 2816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-05": 0
+    }
   },
   {
     "name": "x-off.ru",
