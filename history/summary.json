@@ -49,19 +49,19 @@
     "url": "http://mail.x-off.ru",
     "icon": "https://favicons.githubusercontent.com/mail.x-off.ru",
     "slug": "mail-x-off-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2782,
-    "timeDay": 2030,
-    "timeWeek": 2431,
-    "timeMonth": 2664,
+    "timeDay": 2280,
+    "timeWeek": 2470,
+    "timeMonth": 2667,
     "timeYear": 2782,
     "dailyMinutesDown": {
-      "2021-06-16": 0
+      "2021-06-16": 6
     }
   },
   {
