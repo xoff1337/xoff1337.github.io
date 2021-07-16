@@ -5,21 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 2491,
-    "timeDay": 2207,
-    "timeWeek": 2587,
-    "timeMonth": 2402,
-    "timeYear": 2491,
+    "uptimeYear": "99.99%",
+    "time": 2489,
+    "timeDay": 2057,
+    "timeWeek": 2523,
+    "timeMonth": 2356,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2021-06-21": 16,
-      "2021-05-02": 33,
-      "2021-04-25": 19,
-      "2021-02-09": 44
+      "2021-05-02": 33
     }
   },
   {
@@ -28,22 +26,20 @@
     "icon": "https://favicons.githubusercontent.com/60x7.ru",
     "slug": "60x7-ru",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4084,
-    "timeDay": 2924,
-    "timeWeek": 3522,
-    "timeMonth": 3644,
-    "timeYear": 4084,
+    "uptimeYear": "99.98%",
+    "time": 4091,
+    "timeDay": 6044,
+    "timeWeek": 3716,
+    "timeMonth": 3738,
+    "timeYear": 4091,
     "dailyMinutesDown": {
       "2021-06-21": 16,
       "2021-05-20": 30,
-      "2021-05-02": 33,
-      "2021-04-25": 18,
-      "2021-02-09": 43
+      "2021-05-02": 33
     }
   },
   {
@@ -58,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2755,
-    "timeDay": 3261,
-    "timeWeek": 2655,
-    "timeMonth": 2528,
+    "timeDay": 2884,
+    "timeWeek": 2649,
+    "timeMonth": 2524,
     "timeYear": 2755,
     "dailyMinutesDown": {}
   },
@@ -70,21 +66,19 @@
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
-    "time": 1990,
-    "timeDay": 1400,
-    "timeWeek": 1912,
-    "timeMonth": 2942,
-    "timeYear": 1990,
+    "uptimeYear": "99.98%",
+    "time": 1988,
+    "timeDay": 1657,
+    "timeWeek": 1598,
+    "timeMonth": 2930,
+    "timeYear": 1988,
     "dailyMinutesDown": {
       "2021-06-21": 15,
-      "2021-05-02": 32,
-      "2021-04-25": 18,
-      "2021-02-09": 43
+      "2021-05-02": 32
     }
   }
 ]
