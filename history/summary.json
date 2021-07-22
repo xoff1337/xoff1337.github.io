@@ -61,9 +61,9 @@
     "url": "http://x-off.ru",
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -73,6 +73,7 @@
     "timeMonth": 2894,
     "timeYear": 1976,
     "dailyMinutesDown": {
+      "2021-07-22": 0,
       "2021-06-21": 15,
       "2021-05-02": 32
     }
