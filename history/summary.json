@@ -4,18 +4,20 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2483,
-    "timeDay": 2202,
-    "timeWeek": 2415,
-    "timeMonth": 2389,
-    "timeYear": 2483,
-    "dailyMinutesDown": {}
+    "time": 2478,
+    "timeDay": 1647,
+    "timeWeek": 2250,
+    "timeMonth": 2350,
+    "timeYear": 2478,
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "Fortnite Blog",
