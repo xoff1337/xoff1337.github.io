@@ -11,7 +11,9 @@ sites:
   - name: mail.x-off.ru
     url: http://mail.x-off.ru
   - name: x-off.ru
-    url: http://x-off.ru    
+    url: http://x-off.ru
+  - name: bayra
+    url: https://bayra.site
 
 notifications:
   - type: discord
