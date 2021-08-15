@@ -4,10 +4,10 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2605,
@@ -15,7 +15,9 @@
     "timeWeek": 2514,
     "timeMonth": 3447,
     "timeYear": 2605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "Fortnite Blog",
@@ -58,10 +60,10 @@
     "url": "http://x-off.ru",
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1991,
@@ -69,16 +71,18 @@
     "timeWeek": 2089,
     "timeMonth": 1997,
     "timeYear": 1991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "bayra",
     "url": "https://bayra.site",
     "icon": "https://favicons.githubusercontent.com/bayra.site",
     "slug": "bayra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +91,8 @@
     "timeWeek": 1082,
     "timeMonth": 1082,
     "timeYear": 1082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   }
 ]
