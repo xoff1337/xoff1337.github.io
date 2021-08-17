@@ -22,9 +22,9 @@
     "url": "https://fortnite.x-off.ru",
     "icon": "https://favicons.githubusercontent.com/fortnite.x-off.ru",
     "slug": "fortnite-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 840,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   },
   {
     "name": "mail.x-off.ru",
