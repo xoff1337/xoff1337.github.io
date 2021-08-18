@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2609,
-    "timeDay": 2733,
-    "timeWeek": 2673,
-    "timeMonth": 3476,
-    "timeYear": 2609,
+    "time": 2622,
+    "timeDay": 6701,
+    "timeWeek": 3043,
+    "timeMonth": 3600,
+    "timeYear": 2622,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
-    "timeDay": 755,
-    "timeWeek": 842,
+    "timeDay": 818,
+    "timeWeek": 858,
     "timeMonth": 800,
     "timeYear": 800,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2745,
-    "timeDay": 2450,
-    "timeWeek": 2599,
-    "timeMonth": 2674,
+    "timeDay": 2875,
+    "timeWeek": 2495,
+    "timeMonth": 2676,
     "timeYear": 2745,
     "dailyMinutesDown": {}
   },
@@ -60,18 +60,16 @@
     "slug": "x-off-ru",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 2336,
-    "timeWeek": 2205,
-    "timeMonth": 2016,
-    "timeYear": 1990,
-    "dailyMinutesDown": {
-      "2021-08-17": 11
-    }
+    "time": 2000,
+    "timeDay": 3752,
+    "timeWeek": 2513,
+    "timeMonth": 2111,
+    "timeYear": 2000,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bayra",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1022,
-    "timeWeek": 958,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "time": 2990,
+    "timeDay": 24141,
+    "timeWeek": 3859,
+    "timeMonth": 2990,
+    "timeYear": 2990,
     "dailyMinutesDown": {}
   }
 ]
