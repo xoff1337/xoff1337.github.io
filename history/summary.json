@@ -4,19 +4,19 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2616,
-    "timeDay": 2200,
-    "timeWeek": 2948,
-    "timeMonth": 3631,
-    "timeYear": 2616,
+    "time": 2615,
+    "timeDay": 2219,
+    "timeWeek": 2859,
+    "timeMonth": 3593,
+    "timeYear": 2615,
     "dailyMinutesDown": {
-      "2021-08-23": 1
+      "2021-08-23": 17
     }
   },
   {
