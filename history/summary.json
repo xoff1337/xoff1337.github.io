@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2611,
-    "timeDay": 2224,
-    "timeWeek": 2248,
-    "timeMonth": 3549,
-    "timeYear": 2611,
+    "time": 2610,
+    "timeDay": 2276,
+    "timeWeek": 2242,
+    "timeMonth": 3547,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2021-08-23": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 680,
-    "timeWeek": 720,
-    "timeMonth": 797,
-    "timeYear": 786,
+    "time": 782,
+    "timeDay": 608,
+    "timeWeek": 713,
+    "timeMonth": 791,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2739,
-    "timeDay": 2543,
-    "timeWeek": 2490,
-    "timeMonth": 2708,
-    "timeYear": 2739,
+    "time": 2737,
+    "timeDay": 2295,
+    "timeWeek": 2403,
+    "timeMonth": 2695,
+    "timeYear": 2737,
     "dailyMinutesDown": {}
   },
   {
@@ -62,18 +62,16 @@
     "slug": "x-off-ru",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2063,
-    "timeDay": 8585,
-    "timeWeek": 3920,
-    "timeMonth": 2633,
-    "timeYear": 2063,
-    "dailyMinutesDown": {
-      "2021-08-25": 11
-    }
+    "time": 2061,
+    "timeDay": 11405,
+    "timeWeek": 3901,
+    "timeMonth": 2636,
+    "timeYear": 2061,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bayra",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2177,
-    "timeDay": 930,
-    "timeWeek": 957,
-    "timeMonth": 2177,
-    "timeYear": 2177,
+    "time": 2117,
+    "timeDay": 926,
+    "timeWeek": 922,
+    "timeMonth": 2117,
+    "timeYear": 2117,
     "dailyMinutesDown": {}
   }
 ]
