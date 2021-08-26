@@ -4,19 +4,19 @@
     "url": "https://xn--1-ztbv.xn--p1ai",
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 2611,
     "timeDay": 2636,
     "timeWeek": 2317,
     "timeMonth": 3533,
     "timeYear": 2611,
     "dailyMinutesDown": {
-      "2021-08-26": 6,
+      "2021-08-26": 1,
       "2021-08-23": 17
     }
   },
@@ -61,27 +61,29 @@
     "url": "http://x-off.ru",
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2061,
-    "timeDay": 11405,
+    "timeDay": 1686,
     "timeWeek": 3901,
     "timeMonth": 2636,
     "timeYear": 2061,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-26": 1
+    }
   },
   {
     "name": "bayra",
     "url": "https://bayra.site",
     "icon": "https://favicons.githubusercontent.com/bayra.site",
     "slug": "bayra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,6 +92,8 @@
     "timeWeek": 922,
     "timeMonth": 2117,
     "timeYear": 2117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-26": 0
+    }
   }
 ]
