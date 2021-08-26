@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/xn--1-ztbv.xn--p1ai",
     "slug": "1nf",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 2611,
     "timeDay": 2636,
     "timeWeek": 2317,
     "timeMonth": 3533,
     "timeYear": 2611,
     "dailyMinutesDown": {
-      "2021-08-26": 1,
+      "2021-08-26": 20,
       "2021-08-23": 17
     }
   },
@@ -61,19 +61,19 @@
     "url": "http://x-off.ru",
     "icon": "https://favicons.githubusercontent.com/x-off.ru",
     "slug": "x-off-ru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2061,
-    "timeDay": 1686,
-    "timeWeek": 3901,
-    "timeMonth": 2636,
-    "timeYear": 2061,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2085,
+    "timeDay": 5126,
+    "timeWeek": 4368,
+    "timeMonth": 2792,
+    "timeYear": 2085,
     "dailyMinutesDown": {
-      "2021-08-26": 1
+      "2021-08-26": 20
     }
   },
   {
@@ -81,19 +81,19 @@
     "url": "https://bayra.site",
     "icon": "https://favicons.githubusercontent.com/bayra.site",
     "slug": "bayra",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2117,
-    "timeDay": 926,
-    "timeWeek": 922,
-    "timeMonth": 2117,
-    "timeYear": 2117,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2061,
+    "timeDay": 901,
+    "timeWeek": 917,
+    "timeMonth": 2061,
+    "timeYear": 2061,
     "dailyMinutesDown": {
-      "2021-08-26": 0
+      "2021-08-26": 19
     }
   }
 ]
